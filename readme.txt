@@ -5,4 +5,4 @@ git four stack
 git track changes
 git what i love?
 
-creating a new branch
+Creating a new branch is quick & simple.
